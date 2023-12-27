@@ -1,8 +1,9 @@
-/*
-Notes - Code below controls font behaviors:
 
-*/
-
+body {
+  height: 100%;
+  margin: 0px;
+  background: black;
+}
 
 section {
   height: 100vh;
